@@ -1,0 +1,2 @@
+@use 'variables' as *;
+@mixin focus-ring { outline: 2px solid $coral; outline-offset: 3px; }
