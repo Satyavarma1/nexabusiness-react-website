@@ -10,7 +10,7 @@ The project is designed as a portfolio application to demonstrate scalable React
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](https://nexacart-ecommerce.vercel.app/)**
+👉 **[View Live Demo](https://nexabusiness-react-website.vercel.app/)**
 
 
 ---
