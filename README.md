@@ -17,7 +17,7 @@ The project is designed as a portfolio application to demonstrate scalable React
 
 ## 📂 Source Code
 
-👉 **[View GitHub Repository](https://github.com/Satyavarma1/nexacart-ecommerce)**
+👉 **[View GitHub Repository](https://github.com/Satyavarma1/nexabusiness-react-website)**
 
 ---
 
